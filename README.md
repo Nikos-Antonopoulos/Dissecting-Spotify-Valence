@@ -9,3 +9,11 @@ https://web.archive.org/web/20170422195736/http://blog.echonest.com/post/6609743
 
 ## Data
 The dataset was created with the help of the [Spotify's Web API](https://developer.spotify.com/documentation/web-api/reference/#/) and contains information for both the track and the audio features of song. 
+
+Main *ML algorithms* used:
+* K-means (for clustering)
+* Lasso
+* Linear regression
+* Random forests
+* Support Vector Machines
+* Neural Networks
